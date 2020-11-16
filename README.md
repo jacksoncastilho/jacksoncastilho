@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**jacksoncastilho/jacksoncastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What's up, eu sou o Jackson Castilho! :wave:
+:books: Cursando Engenharia de Software pela [UDESC Alto Vale - CEAVI](https://www.udesc.br/ceavi). <br />
+:computer: No meu tempo livre curto estudar tudo sobre segurança da informação. <br />
+:house_with_garden: Morando em Presidente Getúlio - SC <br />
+### Linguagens que já tenho um certo conhecimento :man_technologist:
+- HTML
+- CSS
+- JavaScript
+- Java
+### Linguagens que pretendo aprender :nerd_face:
+- Python
+- PHP
+- SQL
+ ### Projetos futuros :octocat:
+- Keylogger em Python
+- Aplicação ToDo em React Native e Node.js
+- Site portifólio
+- Aplicação para streaming de musica
+### Rede sociais :link:
+:globe_with_meridians: Site (em breve) <br />
+:busts_in_silhouette: [Facebook](https://www.facebook.com/castilhojackson/) <br />
+:briefcase: [LinkedIn](https://www.linkedin.com/in/jackson-castilho-130003165/)
