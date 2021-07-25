@@ -4,7 +4,7 @@
 ### Sobre mim
 :books: Cursando Engenharia de Software pela [UDESC Alto Vale - CEAVI](https://www.udesc.br/ceavi). <br />
 :computer: No meu tempo livre curto estudar sobre segurança da informação. <br />
-:house_with_garden: Morando atualmente em Presidente Getúlio - SC <br />
+:house_with_garden: Morando atualmente em Rio do Sul - SC <br />
 
 ### Linguagens que já tenho um certo conhecimento :man_technologist:
 - HTML, CSS, JavaScript, Java, PHP, SQL 
@@ -16,7 +16,6 @@
  ### Projetos futuros :octocat:
 - [x] Tela de Cadastro e Login
 - [ ] Keylogger em Python
-- [ ] Aplicação ToDo em React Native e Node.js
 - [ ] Site portifólio
 - [ ] Aplicação para streaming de musica
 
